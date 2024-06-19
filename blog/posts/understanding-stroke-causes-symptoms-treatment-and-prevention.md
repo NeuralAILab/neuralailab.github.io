@@ -105,8 +105,3 @@ For further reading and references, please consult authoritative sources such as
 *   Stroke: AHA/ASA Journal
 
 These resources provide comprehensive and up-to-date information on stroke research, treatment guidelines, and prevention strategies.
-
-### Share this:
-
-*   [LinkedIn](https://neuralailab.home.blog/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/?share=linkedin&nb=1 "Click to share on LinkedIn")
-*   [X](https://neuralailab.home.blog/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/?share=x&nb=1 "Click to share on X")
